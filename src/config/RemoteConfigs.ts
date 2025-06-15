@@ -5,10 +5,6 @@ type RemoteConfig = {
 
 export const RemoteConfigs: RemoteConfig[] = [
     {
-        key: "最小配置", 
-        value: "__DEFAULT"
-    },
-    {
         key: "Giles_默认版",
         value: "https://raw.githubusercontent.com/GilesGJ/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
     },

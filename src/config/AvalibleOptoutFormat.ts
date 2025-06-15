@@ -14,13 +14,13 @@ const AvalibleEndpoints: EndpointPrototype[] = [
         ExtendConfig: ["RemoteConfig", "RemoteConfigUserspec", "ProxyRuleProviders", "isUDP", "isSSUoT", "ForcedWS0RTT"]
     },
     {
-        key: "Clash Meta",
-        value: "/sub/clash-meta",
+        key: "Clash",
+        value: "/sub/clash",
         ExtendConfig: ["RemoteConfig", "RemoteConfigUserspec", "ProxyRuleProviders", "isUDP", "isSSUoT", "ForcedWS0RTT"]
     },
     {
-        key: "Clash",
-        value: "/sub/clash",
+        key: "Clash Meta",
+        value: "/sub/clash-meta",
         ExtendConfig: ["RemoteConfig", "RemoteConfigUserspec", "ProxyRuleProviders", "isUDP", "isSSUoT", "ForcedWS0RTT"]
     },
     {

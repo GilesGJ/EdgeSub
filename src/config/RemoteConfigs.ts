@@ -9,8 +9,8 @@ export const RemoteConfigs: RemoteConfig[] = [
         value: "__DEFAULT"
     },
     {
-        key: "ACL_默认版",
-        value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
+        key: "Giles_默认版",
+        value: "https://raw.githubusercontent.com/GilesGJ/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
     },
     {
         key: "ACL_无测速版",
